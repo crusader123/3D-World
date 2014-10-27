@@ -12,7 +12,7 @@ Continuation of Assignment 2.1
 Rest are some of the files which will help run code in windows and some other.
 "imageloader.h","imageloader.cpp" are the image loading files. I have taken this files directly from the website                        "http://www.videotutorialsrock.com/opengl_tutorial/textures/home.php". They are basically used for reading images and loading them as textures.
 
-3. "index.bmp","water.bmp" are  uesd for texture. These files are also taken from web. "water.bmp" is taken explicitly from                "http://videotutorialrocks.com" and "index.bmp","crate.bmp","jungle.bmp","jungle2.bmp" from google images.
+3. "index.bmp","water.bmp" are  uesd for texture. These files are also taken from web.
 
 4. "Makefile" is for generating the executable of the game. "Game" is the executable for game.
 
